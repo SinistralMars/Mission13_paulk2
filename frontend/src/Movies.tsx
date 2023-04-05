@@ -1,7 +1,5 @@
-import data from './MovieDataSample.json';
 import info from './MovieData.json';
 
-const MovieDataSample = data.MovieDataSample;
 const MovieData = info.MovieData;
 
 function MovieList() {
